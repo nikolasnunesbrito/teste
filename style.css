@@ -56,5 +56,29 @@ th, td
  text-align: center;
 }
 
+@media (max-width: 400px) 
+{
+ #conteiner {
+ width: 50%;
+ height: auto;
+ padding: 20px; 
+}
+ #tituloPrincipal 
+{ font-size: 20px; 
+}
+ #PARAGRAFO, #Lista 
+{ font-size: 16px;
+ padding: 10px; 
+}
+ table {
+ width: 100%;
+ font-size: 14px;
+ }
+ th, td { 
+padding: 8px; 
+} #pezinho 
+{ position: static; margin-top: 20px; }
+ }
+
 
     
