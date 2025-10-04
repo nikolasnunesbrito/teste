@@ -59,6 +59,7 @@ th, td
 @media (max-width: 800px) 
 {
  #conteiner {
+  background-color: #4B0082;
  width: 50%;
  height: 1500px;
  padding: 20px; 
